@@ -93,7 +93,7 @@ const ProductHome = () => {
 
               <Space>
                 <Button
-                  className="bg-red-500 text-white font-semibold text-lg p-2 h-auto ml-[64px] w-fit "
+                  className="bg-red-500 text-white font-semibold text-lg p-2 h-auto ml-[76px] w-fit "
                   onClick={() => handleAddCart(item)}
                 >
                   Add To Cart
